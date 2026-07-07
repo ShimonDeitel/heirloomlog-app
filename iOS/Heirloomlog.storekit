@@ -1,0 +1,27 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "0",
+      "localizations": [
+        {
+          "description": "Assign intended recipients and generate a printable heirloom booklet.",
+          "displayName": "Heirloom Booklet",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.heirloomlog.pro",
+      "referenceName": "Heirloom Booklet",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 1
+  }
+}
